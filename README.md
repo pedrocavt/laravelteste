@@ -7,11 +7,13 @@ git clone https://github.com/pedrocavt/laravelteste.git
 ```
 
 ### Entre na pasta do projeto e rode este comando
-```composer install
+```bash
+composer install
 ```
 
 ### Ligue o servidor com este comando
-```php artisan serve
+```bash
+php artisan serve
 ```
 
 ### Teste a API
