@@ -11,6 +11,14 @@ git clone https://github.com/pedrocavt/laravelteste.git
 composer install
 ```
 
+### Banco de dados
+> Criei um banco de dados e sete ele no arquivo .env
+> Depois rode as migrations com o comando
+
+```bash
+php artisan migrate
+```
+
 ### Ligue o servidor com este comando
 ```bash
 php artisan serve
